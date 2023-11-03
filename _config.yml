@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Steelturtle"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a person in front of starting line."
-  location         : "Somewhere"
+  bio              : "코딩 잘 못 해요."
+  location         : "지구"
   email            :
   links:
     - label: "Email"
